@@ -423,3 +423,20 @@ td,
 th {
   padding: 0;
 }
+
+
+@media screen and (orientation:portrait) {
+  /* Portrait styles */
+  /*hide your main content and display message */
+#landscape{display:none}
+#portrait{display:normal}
+
+}
+/* Landscape */
+@media screen and (orientation:landscape) {
+  /* Landscape styles */
+  /* show your content*/
+ #landscape{display:normal}
+ #portrait{display:none}
+
+}
