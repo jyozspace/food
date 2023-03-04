@@ -1,2 +1,1 @@
-# food
-NISER-Little Kitchen food ordering portal.
+#MIMA : Multifunctional IoT Integrated Menstrual Aid
